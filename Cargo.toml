@@ -1,0 +1,11 @@
+[package]
+name = "cyber-l1-sub_cipher"
+version = "0.1.0"
+authors = ["ruoshui-git <ruoshuim@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.7.3"
+rayon = "1.1"
